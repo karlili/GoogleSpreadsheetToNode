@@ -1,0 +1,10 @@
+{
+  "name": "GoogleSpreadsheetToNode",
+  "main": "app.js",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^16.1.0"
+  },
+  "version": "0.0.1",
+  "private": true
+}
